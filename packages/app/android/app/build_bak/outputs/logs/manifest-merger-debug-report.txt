@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f1d1fe07634b54c767fff1d0a2e0a1e2/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/b00b5444bb33fe294469a240cf1a9eb9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/eeadd608600a700f8df68039f25ef286/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/839ec483a8d1ac743538153aa585d77b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/9fda5497ed813ea7b3ca6a80cb885b65/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/df5bc425d2b37b7f0de535020fa2cef6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/3e703652a36cf08629492fcf1037345d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/7da5ee66f02d0e569c054dd84e9104d8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/8f86db284ba4f2d3a035a63dbe31d946/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/17218fe10a5b952e92a423aa744eb621/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/099730bdef2c5253113ebbbcb5eb6987/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/dae01690a353c25e5422453d451c6db6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/40076cbfdfcf9e93ed99377f61408e0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/db0f3feb52bc996787e0c40e2f06d445/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d6c0abf627907c11e733226c4cad9aa7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d9199786a07114e13765e3fa3d72163e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/8bdc3e543d646b2edc650d3dfa93dd5e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/023e61f0ec7cb08b538e2f7847182862/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/fdb6cf277d15d1d10265979a7a0413f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/29e6d179d771e577b6aeb7f940939814/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/fbaec975b3a2452df02d5b187caef570/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/3977d9eb82e605bd29064747470f171e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/379be51a7e1e17aaf7711daf611dc08c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/9ca61cc9f8dc1acf83268f06fdb074cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f0fb569135948b2fdcff10e18d5c244c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/01ae75415cdc8e2402951742e9cf70b7/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/7cc8d1c364ef97026694ca670b0bb4f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5293ef6192ff79cc97e3de688e223059/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5af70eba45ac92db16f355a753e2291f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/99cecc747200feb911f535a474496ab2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/212fcb2ad24a0bd422941836ef42d279/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d97dfdb3b573bb14ed1f306b1f1e3c16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/51b8c7ea0ca7333e2e19dfd22d3d92fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/6704b7f7b279031a10032a257bd92ccc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/b13781979a8d92e75daec89156c77a69/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5ad79dc0a9e9e8993aebb75c381b70f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/543098f3abf72ceba35cce606ed6fa1a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f1d1fe07634b54c767fff1d0a2e0a1e2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f1d1fe07634b54c767fff1d0a2e0a1e2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/099730bdef2c5253113ebbbcb5eb6987/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/099730bdef2c5253113ebbbcb5eb6987/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f0fb569135948b2fdcff10e18d5c244c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f0fb569135948b2fdcff10e18d5c244c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/01ae75415cdc8e2402951742e9cf70b7/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/01ae75415cdc8e2402951742e9cf70b7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f0fb569135948b2fdcff10e18d5c244c/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.reactnative.MainActivity
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f1d1fe07634b54c767fff1d0a2e0a1e2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f1d1fe07634b54c767fff1d0a2e0a1e2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/b00b5444bb33fe294469a240cf1a9eb9/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/b00b5444bb33fe294469a240cf1a9eb9/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/eeadd608600a700f8df68039f25ef286/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/eeadd608600a700f8df68039f25ef286/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/839ec483a8d1ac743538153aa585d77b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/839ec483a8d1ac743538153aa585d77b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/9fda5497ed813ea7b3ca6a80cb885b65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/9fda5497ed813ea7b3ca6a80cb885b65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/df5bc425d2b37b7f0de535020fa2cef6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/df5bc425d2b37b7f0de535020fa2cef6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/3e703652a36cf08629492fcf1037345d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/3e703652a36cf08629492fcf1037345d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/7da5ee66f02d0e569c054dd84e9104d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/7da5ee66f02d0e569c054dd84e9104d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/8f86db284ba4f2d3a035a63dbe31d946/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/8f86db284ba4f2d3a035a63dbe31d946/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/17218fe10a5b952e92a423aa744eb621/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/17218fe10a5b952e92a423aa744eb621/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/099730bdef2c5253113ebbbcb5eb6987/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/099730bdef2c5253113ebbbcb5eb6987/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/dae01690a353c25e5422453d451c6db6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/dae01690a353c25e5422453d451c6db6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/40076cbfdfcf9e93ed99377f61408e0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/40076cbfdfcf9e93ed99377f61408e0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/db0f3feb52bc996787e0c40e2f06d445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/db0f3feb52bc996787e0c40e2f06d445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d6c0abf627907c11e733226c4cad9aa7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d6c0abf627907c11e733226c4cad9aa7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d9199786a07114e13765e3fa3d72163e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d9199786a07114e13765e3fa3d72163e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/8bdc3e543d646b2edc650d3dfa93dd5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/8bdc3e543d646b2edc650d3dfa93dd5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/023e61f0ec7cb08b538e2f7847182862/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/023e61f0ec7cb08b538e2f7847182862/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/fdb6cf277d15d1d10265979a7a0413f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/fdb6cf277d15d1d10265979a7a0413f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/29e6d179d771e577b6aeb7f940939814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/29e6d179d771e577b6aeb7f940939814/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/fbaec975b3a2452df02d5b187caef570/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/fbaec975b3a2452df02d5b187caef570/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/3977d9eb82e605bd29064747470f171e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/3977d9eb82e605bd29064747470f171e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/379be51a7e1e17aaf7711daf611dc08c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/379be51a7e1e17aaf7711daf611dc08c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/9ca61cc9f8dc1acf83268f06fdb074cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/9ca61cc9f8dc1acf83268f06fdb074cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f0fb569135948b2fdcff10e18d5c244c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/f0fb569135948b2fdcff10e18d5c244c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/01ae75415cdc8e2402951742e9cf70b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/01ae75415cdc8e2402951742e9cf70b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/7cc8d1c364ef97026694ca670b0bb4f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/7cc8d1c364ef97026694ca670b0bb4f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5293ef6192ff79cc97e3de688e223059/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5293ef6192ff79cc97e3de688e223059/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5af70eba45ac92db16f355a753e2291f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5af70eba45ac92db16f355a753e2291f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/99cecc747200feb911f535a474496ab2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/99cecc747200feb911f535a474496ab2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/212fcb2ad24a0bd422941836ef42d279/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/212fcb2ad24a0bd422941836ef42d279/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d97dfdb3b573bb14ed1f306b1f1e3c16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/d97dfdb3b573bb14ed1f306b1f1e3c16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/51b8c7ea0ca7333e2e19dfd22d3d92fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/51b8c7ea0ca7333e2e19dfd22d3d92fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/6704b7f7b279031a10032a257bd92ccc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/6704b7f7b279031a10032a257bd92ccc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/b13781979a8d92e75daec89156c77a69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/b13781979a8d92e75daec89156c77a69/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5ad79dc0a9e9e8993aebb75c381b70f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/5ad79dc0a9e9e8993aebb75c381b70f5/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/543098f3abf72ceba35cce606ed6fa1a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Da-YungChang/.gradle/caches/transforms-2/files-2.1/543098f3abf72ceba35cce606ed6fa1a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/Da-YungChang/Projects/React/ReactNative/MedicalTools/packages/app/android/app/src/debug/AndroidManifest.xml:5:22-75

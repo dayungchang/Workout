@@ -1,0 +1,46 @@
+{
+  "name": "reactnative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "babel-preset-react-native": "2.1.0",
+    "mobx": "^5.13.0",
+    "mobx-react-lite": "^1.4.1",
+    "react": "16.8.6",
+    "react-native": "0.60.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/runtime": "^7.5.5",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "@types/jest": "^24.0.16",
+    "@types/react": "^16.8.24",
+    "@types/react-native": "^0.60.3",
+    "@types/react-test-renderer": "^16.8.3",
+    "@wow/common": "1.0.0",
+    "babel-jest": "^24.8.0",
+    "eslint": "^6.1.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.55.0",
+    "react-test-renderer": "16.8.6",
+    "typescript": "^3.5.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "workspaces": {
+    "nohoist": [
+      "react-native",
+      "react-native/**",
+      "react",
+      "react/**"
+    ]
+  }
+}
